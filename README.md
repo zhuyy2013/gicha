@@ -1,0 +1,2 @@
+# gicha
+personal manager
